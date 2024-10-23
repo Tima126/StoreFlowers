@@ -1,0 +1,80 @@
+D:\webApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+D:\webApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+D:\webApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+D:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+D:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.sourcelink.json
+D:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+D:\webApi\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+D:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+D:\webApi\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+D:\webApi\BusinessLogic\bin\Debug\net8.0\DataAccess.dll
+D:\webApi\BusinessLogic\bin\Debug\net8.0\DataAccess.pdb
+D:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CopyComplete
+C:\webApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+C:\webApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+C:\webApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+C:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+C:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.sourcelink.json
+C:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CopyComplete
+C:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+C:\webApi\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+C:\webApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+C:\webApi\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+C:\Users\timaf\Documents\GitHub\Webapi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+C:\Users\timaf\Documents\GitHub\Webapi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\timaf\Documents\GitHub\Webapi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\timaf\Documents\GitHub\Webapi\BusinessLogic\bin\Debug\net8.0\Domain.dll
+C:\Users\timaf\Documents\GitHub\Webapi\BusinessLogic\bin\Debug\net8.0\Domain.pdb
+C:\Users\timaf\Documents\GitHub\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\timaf\Documents\GitHub\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timaf\Documents\GitHub\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\timaf\Documents\GitHub\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\timaf\Documents\GitHub\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\timaf\Documents\GitHub\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.sourcelink.json
+C:\Users\timaf\Documents\GitHub\Webapi\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
+C:\Users\timaf\Documents\GitHub\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+C:\Users\timaf\Documents\GitHub\Webapi\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+C:\Users\timaf\Documents\GitHub\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+C:\Users\timaf\Documents\GitHub\Webapi\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+C:\webApi\BusinessLogic\bin\Debug\net8.0\Domain.dll
+C:\webApi\BusinessLogic\bin\Debug\net8.0\Domain.pdb
+C:\Users\timaf\OneDrive\Рабочий стол\restoran (2)\Webapi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+C:\Users\timaf\OneDrive\Рабочий стол\restoran (2)\Webapi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\timaf\OneDrive\Рабочий стол\restoran (2)\Webapi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\timaf\OneDrive\Рабочий стол\restoran (2)\Webapi\BusinessLogic\bin\Debug\net8.0\Domain.dll
+C:\Users\timaf\OneDrive\Рабочий стол\restoran (2)\Webapi\BusinessLogic\bin\Debug\net8.0\Domain.pdb
+C:\Users\timaf\OneDrive\Рабочий стол\restoran (2)\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\timaf\OneDrive\Рабочий стол\restoran (2)\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timaf\OneDrive\Рабочий стол\restoran (2)\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\timaf\OneDrive\Рабочий стол\restoran (2)\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\timaf\OneDrive\Рабочий стол\restoran (2)\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\timaf\OneDrive\Рабочий стол\restoran (2)\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.sourcelink.json
+C:\Users\timaf\OneDrive\Рабочий стол\restoran (2)\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CopyComplete
+C:\Users\timaf\OneDrive\Рабочий стол\restoran (2)\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+C:\Users\timaf\OneDrive\Рабочий стол\restoran (2)\Webapi\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+C:\Users\timaf\OneDrive\Рабочий стол\restoran (2)\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+C:\Users\timaf\OneDrive\Рабочий стол\restoran (2)\Webapi\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+C:\Users\timaf\OneDrive\Документы\Webapi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+C:\Users\timaf\OneDrive\Документы\Webapi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\timaf\OneDrive\Документы\Webapi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\timaf\OneDrive\Документы\Webapi\BusinessLogic\bin\Debug\net8.0\Domain.dll
+C:\Users\timaf\OneDrive\Документы\Webapi\BusinessLogic\bin\Debug\net8.0\Domain.pdb
+C:\Users\timaf\OneDrive\Документы\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\timaf\OneDrive\Документы\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timaf\OneDrive\Документы\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\timaf\OneDrive\Документы\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\timaf\OneDrive\Документы\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\timaf\OneDrive\Документы\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.sourcelink.json
+C:\Users\timaf\OneDrive\Документы\Webapi\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
+C:\Users\timaf\OneDrive\Документы\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+C:\Users\timaf\OneDrive\Документы\Webapi\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+C:\Users\timaf\OneDrive\Документы\Webapi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+C:\Users\timaf\OneDrive\Документы\Webapi\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
