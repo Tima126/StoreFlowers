@@ -7585,11 +7585,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timaf\\OneDrive\\Документы\\Webapi(работает)\\BusinessLogic.Test\\BusinessLogic.Test.csproj",
+      "projectUniqueName": "C:\\StoreFlowers\\BusinessLogic.Test\\BusinessLogic.Test.csproj",
       "projectName": "BusinessLogic.Test",
-      "projectPath": "C:\\Users\\timaf\\OneDrive\\Документы\\Webapi(работает)\\BusinessLogic.Test\\BusinessLogic.Test.csproj",
+      "projectPath": "C:\\StoreFlowers\\BusinessLogic.Test\\BusinessLogic.Test.csproj",
       "packagesPath": "C:\\Users\\timaf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timaf\\OneDrive\\Документы\\Webapi(работает)\\BusinessLogic.Test\\obj\\",
+      "outputPath": "C:\\StoreFlowers\\BusinessLogic.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\timaf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7607,8 +7607,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\timaf\\OneDrive\\Документы\\Webapi(работает)\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\timaf\\OneDrive\\Документы\\Webapi(работает)\\BusinessLogic\\BusinessLogic.csproj"
+            "C:\\StoreFlowers\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "C:\\StoreFlowers\\BusinessLogic\\BusinessLogic.csproj"
             }
           }
         }

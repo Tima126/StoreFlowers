@@ -17,6 +17,7 @@ namespace webApi
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+           
 
             // Регистрация сервисов
             builder.Services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
@@ -62,9 +63,24 @@ namespace webApi
             });
 
             builder.Services.AddDbContext<FlowersStoreContext>(
-                optionsAction: options => options.UseSqlServer(builder.Configuration["ConnectionStrings"]));
-
+             options => options.UseSqlServer(builder.Configuration["ConnectionString"]));
+            
+            
+            
+            
+            
             var app = builder.Build();
+            //using (var scope = app.Services.CreateScope())
+            //{
+            //    var services = scope.ServiceProvider;
+            //    var context = services.GetRequiredService<FlowersStoreContext>();
+            //    context.Database.Migrate();
+            //}
+
+
+
+
+
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())

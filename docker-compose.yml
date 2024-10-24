@@ -13,7 +13,7 @@ services:
     environment:
       - ASPNETCORE_URLS=http://+:80
       - ASPNETCORE_ENVIRONMENT=Development
-      - Conectionstring=Server=db;Database=Flowers_store
+      - Conectionstring=Server=db;Database=My_test;User=sa;Password=Your_password123;MultipleActiveResultSets=true
 
     ports:
       - "5000:80"
