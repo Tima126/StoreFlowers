@@ -20,8 +20,7 @@ namespace BusinessLogic.Validation
                .WithMessage("CategoryName contains invalid characters.");
 
 
-            RuleFor(cat => cat.CategoryId)
-                .GreaterThan(0).WithMessage("CategoryId ID must be greater than 0.");
+            
 
 
 

@@ -2,8 +2,7 @@
 {
     public class CreateReviwe
     {
-        public int ReviewId { get; set; }
-
+      
         public int? ProductId { get; set; }
 
         public int? UserId { get; set; }

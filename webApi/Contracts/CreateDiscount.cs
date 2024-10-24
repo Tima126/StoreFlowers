@@ -2,7 +2,7 @@
 {
     public class CreateDiscount
     {
-        public int DiscountId { get; set; }
+       
 
         public string Code { get; set; } = null!;
 

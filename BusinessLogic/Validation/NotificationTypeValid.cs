@@ -14,8 +14,7 @@ namespace BusinessLogic.Validation
 
         public NotificationTypeValid()
         {
-            RuleFor(notificationtype => notificationtype.NotificationTypeId)
-                .GreaterThan(0).WithMessage("NotificationType Id must be greater than 0.");
+            
             RuleFor(notificationtype => notificationtype.TypeName)
                 .NotEmpty().WithMessage("Message is required.")
                  .MaximumLength(20).WithMessage("Message must not exceed 500 characters.");

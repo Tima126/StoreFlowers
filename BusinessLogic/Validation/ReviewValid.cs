@@ -12,8 +12,7 @@ namespace BusinessLogic.Validation
     {
         public ReviewValidator()
         {
-            RuleFor(review => review.ReviewId)
-                .GreaterThan(0).WithMessage("ReviewId must be greater than 0.");
+            
 
             RuleFor(review => review.ProductId)
                 .NotNull().WithMessage("ProductId cannot be null.")

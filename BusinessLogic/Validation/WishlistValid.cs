@@ -12,8 +12,7 @@ namespace BusinessLogic.Validation
     {
         public WishlistValidator()
         {
-            RuleFor(wishlist => wishlist.WishlistId)
-                .GreaterThan(0).WithMessage("WishlistId must be greater than 0.");
+            
 
             RuleFor(wishlist => wishlist.UserId)
                 .NotNull().WithMessage("UserId cannot be null.")

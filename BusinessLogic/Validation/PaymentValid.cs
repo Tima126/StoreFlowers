@@ -12,8 +12,7 @@ namespace BusinessLogic.Validation
     {
         public PaymentValidator()
         {
-            RuleFor(payment => payment.PaymentId)
-                .GreaterThan(0).WithMessage("PaymentId must be greater than 0.");
+           
 
             RuleFor(payment => payment.OrderId)
                 .NotNull().WithMessage("OrderId cannot be null.")

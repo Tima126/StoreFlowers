@@ -12,8 +12,7 @@ namespace BusinessLogic.Validation
     {
         public PaymentMethodValidator()
         {
-            RuleFor(paymentMethod => paymentMethod.PaymentMethodId)
-                .GreaterThan(0).WithMessage("PaymentMethodId must be greater than 0.");
+           
 
             RuleFor(paymentMethod => paymentMethod.MethodName)
                 .NotEmpty().WithMessage("MethodName is required.")

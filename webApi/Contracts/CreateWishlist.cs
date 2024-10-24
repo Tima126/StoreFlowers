@@ -2,7 +2,7 @@
 {
     public class CreateWishlist
     {
-        public int WishlistId { get; set; }
+        
 
         public int? UserId { get; set; }
 

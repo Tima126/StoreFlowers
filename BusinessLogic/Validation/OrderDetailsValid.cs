@@ -12,9 +12,7 @@ namespace BusinessLogic.Validation
     {
         public OrderDetailsValid()
         {
-            RuleFor(orderDetail => orderDetail.OrderDetailId)
-                .GreaterThan(0).WithMessage("OrderDetailId must be greater than 0.");
-
+           
             RuleFor(orderDetail => orderDetail.OrderId)
                 .NotNull().WithMessage("OrderId cannot be null.")
                 .GreaterThan(0).WithMessage("OrderId must be greater than 0.");

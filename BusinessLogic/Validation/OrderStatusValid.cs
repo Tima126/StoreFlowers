@@ -12,8 +12,7 @@ namespace BusinessLogic.Validation
     {
         public OrderStatusValidator()
         {
-            RuleFor(orderStatus => orderStatus.StatusId)
-                .GreaterThan(0).WithMessage("StatusId must be greater than 0.");
+            
 
             RuleFor(orderStatus => orderStatus.StatusName)
                 .NotEmpty().WithMessage("StatusName is required.")

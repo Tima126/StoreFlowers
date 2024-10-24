@@ -2,7 +2,6 @@
 {
     public class CreateOrderDitail
     {
-        public int OrderDetailId { get; set; }
 
         public int? OrderId { get; set; }
 

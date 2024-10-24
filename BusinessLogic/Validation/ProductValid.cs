@@ -12,8 +12,7 @@ namespace BusinessLogic.Validation
     {
         public ProductValidator()
         {
-            RuleFor(product => product.ProductId)
-                .GreaterThan(0).WithMessage("ProductId must be greater than 0.");
+            
 
             RuleFor(product => product.ProductName)
                 .NotEmpty().WithMessage("ProductName is required.")

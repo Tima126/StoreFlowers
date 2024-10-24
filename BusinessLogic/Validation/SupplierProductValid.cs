@@ -12,8 +12,7 @@ namespace BusinessLogic.Validation
     {
         public SupplierProductValidator()
         {
-            RuleFor(supplierProduct => supplierProduct.SupplierProductId)
-                .GreaterThan(0).WithMessage("SupplierProductId must be greater than 0.");
+           
 
             RuleFor(supplierProduct => supplierProduct.SupplierId)
                 .NotNull().WithMessage("SupplierId cannot be null.")

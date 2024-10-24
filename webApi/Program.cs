@@ -36,6 +36,7 @@ namespace webApi
             builder.Services.AddScoped<ISupplierService, SupplierService>();
             builder.Services.AddScoped<ISupplierProductService, SupplierProductService>();
             builder.Services.AddScoped<IWishlistService, WishlistService>();
+            builder.Services.AddScoped<ICategoryService, CategoryService>();
 
             builder.Services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
             {

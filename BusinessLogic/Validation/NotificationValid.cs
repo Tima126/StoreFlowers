@@ -13,9 +13,7 @@ namespace BusinessLogic.Validation
 
         public NotificationValid()
         {
-            RuleFor(notification => notification.NotificationId)
-                .GreaterThan(0).WithMessage("NotificationId must be greater than 0.");
-
+            
             RuleFor(notification => notification.UserId)
                 .NotNull().WithMessage("UserId cannot be null.");
 
