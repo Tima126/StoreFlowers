@@ -93,6 +93,12 @@ namespace webApi
                 });
             }
 
+
+            app.UseCors(builder => builder.WithOrigins(["https://storeflowers-1.onrender.com",])
+                            .AllowAnyHeader()
+                            .AllowAnyMethod());
+
+           
             app.UseHttpsRedirection();
             app.UseAuthorization();
             app.UseCors("MyPolicy");

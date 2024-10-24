@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\StoreFlowers\\webApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|c:\\storeflowers\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2009C5A-15FC-498B-9893-999B96088E2F}|..\\BlazorApp2\\BlazorApp2.csproj|c:\\storeflowers\\blazorapp2\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -19,7 +23,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 315,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,7 +31,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\webApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\StoreFlowers\\webApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwGYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:59:46.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\StoreFlowers\\Domain\\Models\\Category.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Models\\Category.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Products.razor",
               "DocumentMoniker": "C:\\StoreFlowers\\BlazorApp2\\Pages\\Products.razor",
               "RelativeDocumentMoniker": "..\\BlazorApp2\\Pages\\Products.razor",
@@ -52,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\StoreFlowers\\BlazorApp2\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "..\\BlazorApp2\\Pages\\Home.razor",
@@ -60,8 +77,7 @@
               "RelativeToolTip": "..\\BlazorApp2\\Pages\\Home.razor",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAGEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T12:37:18.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T12:37:18.213Z"
             }
           ]
         }
