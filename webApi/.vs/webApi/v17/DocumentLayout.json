@@ -38,8 +38,7 @@
               "RelativeToolTip": "..\\Domain\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:44:07.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T12:44:07.548Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "..\\Domain\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:43:17.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T12:43:17.448Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "..\\BlazorApp2\\Pages\\Home.razor",
               "ViewState": "AgIAALQAAAAAAAAAAAAAAFAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T12:37:18.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T12:37:18.213Z"
             }
           ]
         }

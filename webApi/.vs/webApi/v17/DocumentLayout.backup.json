@@ -3,13 +3,16 @@
   "WorkspaceRootPath": "C:\\StoreFlowers\\webApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2009C5A-15FC-498B-9893-999B96088E2F}|..\\BlazorApp2\\BlazorApp2.csproj|c:\\storeflowers\\blazorapp2\\pages\\category.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E2009C5A-15FC-498B-9893-999B96088E2F}|..\\BlazorApp2\\BlazorApp2.csproj|c:\\storeflowers\\blazorapp2\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624A02F2-9BC1-434C-B747-2D25197C075D}|..\\Domain\\Domain.csproj|c:\\storeflowers\\domain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624A02F2-9BC1-434C-B747-2D25197C075D}|..\\Domain\\Domain.csproj|c:\\storeflowers\\domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2009C5A-15FC-498B-9893-999B96088E2F}|..\\BlazorApp2\\BlazorApp2.csproj|c:\\storeflowers\\blazorapp2\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2009C5A-15FC-498B-9893-999B96088E2F}|..\\BlazorApp2\\BlazorApp2.csproj|c:\\storeflowers\\blazorapp2\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 315,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,42 +30,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\StoreFlowers\\Domain\\Models\\Product.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:44:07.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\Domain\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Category.cs",
+              "ToolTip": "C:\\StoreFlowers\\Domain\\Models\\Category.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:43:17.448Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Category.razor",
-              "DocumentMoniker": "C:\\StoreFlowers\\BlazorApp2\\Pages\\Category.razor",
-              "RelativeDocumentMoniker": "..\\BlazorApp2\\Pages\\Category.razor",
-              "ToolTip": "C:\\StoreFlowers\\BlazorApp2\\Pages\\Category.razor",
-              "RelativeToolTip": "..\\BlazorApp2\\Pages\\Category.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Products.razor",
+              "DocumentMoniker": "C:\\StoreFlowers\\BlazorApp2\\Pages\\Products.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\Pages\\Products.razor",
+              "ToolTip": "C:\\StoreFlowers\\BlazorApp2\\Pages\\Products.razor",
+              "RelativeToolTip": "..\\BlazorApp2\\Pages\\Products.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-24T12:41:25.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "app.css",
-              "DocumentMoniker": "C:\\StoreFlowers\\BlazorApp2\\wwwroot\\css\\app.css",
-              "RelativeDocumentMoniker": "..\\BlazorApp2\\wwwroot\\css\\app.css",
-              "ToolTip": "C:\\StoreFlowers\\BlazorApp2\\wwwroot\\css\\app.css",
-              "RelativeToolTip": "..\\BlazorApp2\\wwwroot\\css\\app.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-24T12:37:30.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\StoreFlowers\\BlazorApp2\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "..\\BlazorApp2\\Pages\\Home.razor",
               "ToolTip": "C:\\StoreFlowers\\BlazorApp2\\Pages\\Home.razor",
               "RelativeToolTip": "..\\BlazorApp2\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAFAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T12:37:18.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T12:37:18.213Z"
             }
           ]
         }
