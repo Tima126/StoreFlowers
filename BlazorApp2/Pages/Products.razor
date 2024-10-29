@@ -55,8 +55,8 @@
     {
         var client = new HttpClient();
 
-        // client.BaseAddress = new Uri("https://webapi-8.onrender.com/");
-        client.BaseAddress = new Uri("https://localhost:7119/");
+        client.BaseAddress = new Uri("https://webapi-jgf2.onrender.com/");
+       
         result = await client.GetFromJsonAsync<Product[]>("api/Products");
 
         return;

@@ -23,9 +23,7 @@ namespace BusinessLogic.Validation
                 .GreaterThanOrEqualTo(0).WithMessage("Discount percentage must be greater than or equal to 0.")
                 .LessThanOrEqualTo(100).WithMessage("Discount percentage must be less than or equal to 100.");
 
-            RuleFor(disc => disc.ExpiryDate)
-                .NotNull().WithMessage("Expiry date cannot be null.")
-                .Must(BeAValidExpiryDate).WithMessage("Expiry date must be in the future.");
+           
         }
 
         private bool BeAValidExpiryDate(DateOnly expiryDate)
