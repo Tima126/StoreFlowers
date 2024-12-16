@@ -1,19 +1,26 @@
 ﻿using Domain.interfaces.Repository;
 using Domain.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace DataAccess.Repository
 {
     public class UserRepository : RepositoryBase<User>, IUserRepository
     {
-        public UserRepository(FlowersStoreContext repositoriContext) 
-            :base(repositoriContext)
+        public UserRepository(FlowersStoreContext repositoryContext)
+            : base(repositoryContext)
         {
-
         }
+
+        public async Task<User> GetByIdWithToken(int userId) =>
+            await RepositoryContext.Set<User>()
+                .Include(x => x.RefreshTokens)
+                .AsNoTracking()
+                .FirstOrDefaultAsync(x => x.UserId == userId);
+
+        public async Task<User> GetByEmailWithToken(string email) =>
+            await RepositoryContext.Set<User>()
+                .Include(x => x.RefreshTokens)
+                .AsNoTracking()
+                .FirstOrDefaultAsync(x => x.Email == email);
     }
 }

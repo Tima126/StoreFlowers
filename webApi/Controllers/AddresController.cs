@@ -3,8 +3,9 @@ using Microsoft.EntityFrameworkCore;
 using Domain.Models;
 using BusinessLogic.Services;
 using Mapster;
-using webApi.Contracts;
+
 using Domain.interfaces.Service;
+using webApi.Contracts;
 
 namespace webApi.Controllers
 {

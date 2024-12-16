@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MyYhxNxw9AaJ4kqnj9u3tx2heyKpBmiOHtn5o30+rJo=",
+  "Hash": "tD3h7ehfJx4mwbsvbnD7RaRlgXfd0MsxIXM8wHCEh/Y=",
   "Source": "BlazorApp2",
   "BasePath": "/",
   "Mode": "Root",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\timaf\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\timaf\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.dttvpwtuld.js",
+      "Identity": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.20cn79vu0w.js",
       "SourceId": "BlazorApp2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.10.dttvpwtuld.js",
+      "RelativePath": "_framework/dotnet.native.8.0.10.20cn79vu0w.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\timaf\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\timaf\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.39apnb5yx8.js",
+      "Identity": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.rdp6svyud8.js",
       "SourceId": "BlazorApp2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.10.39apnb5yx8.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.10.rdp6svyud8.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\timaf\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\timaf\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\timaf\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\timaf\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\timaf\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -4045,6 +4045,25 @@
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Data.Common.wasm"
     },
     {
+      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\1h7ws751qg.gz",
+      "SourceId": "BlazorApp2",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+    },
+    {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\1hyq4ledfv.gz",
       "SourceId": "BlazorApp2",
       "SourceType": "Computed",
@@ -4081,6 +4100,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.Xml.wasm"
+    },
+    {
+      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\20cn79vu0w.gz",
+      "SourceId": "BlazorApp2",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.10.20cn79vu0w.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.20cn79vu0w.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.20cn79vu0w.js"
     },
     {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\28jk4ryssf.gz",
@@ -4252,25 +4290,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.wasm"
-    },
-    {
-      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\39apnb5yx8.gz",
-      "SourceId": "BlazorApp2",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.10.39apnb5yx8.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.39apnb5yx8.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.39apnb5yx8.js"
     },
     {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\39osarkgth.gz",
@@ -4518,6 +4537,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Encoding.wasm"
+    },
+    {
+      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\573nn43d3y.gz",
+      "SourceId": "BlazorApp2",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\57lb3j8ipa.gz",
@@ -4843,25 +4881,6 @@
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Numerics.wasm"
     },
     {
-      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\8jqm1bzm7c.gz",
-      "SourceId": "BlazorApp2",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
-    },
-    {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\8mokgvon3g.gz",
       "SourceId": "BlazorApp2",
       "SourceType": "Computed",
@@ -4974,6 +4993,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.wasm"
+    },
+    {
+      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\9orzoglp0x.gz",
+      "SourceId": "BlazorApp2",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\9xc24hr9tz.gz",
@@ -5204,25 +5242,6 @@
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ValueTuple.wasm"
     },
     {
-      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\d3b5uaod4t.gz",
-      "SourceId": "BlazorApp2",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
-    },
-    {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\dbvkgosbmm.gz",
       "SourceId": "BlazorApp2",
       "SourceType": "Computed",
@@ -5318,25 +5337,6 @@
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.RegularExpressions.wasm"
     },
     {
-      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\dttvpwtuld.gz",
-      "SourceId": "BlazorApp2",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.10.dttvpwtuld.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.dttvpwtuld.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.dttvpwtuld.js"
-    },
-    {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\dws379n729.gz",
       "SourceId": "BlazorApp2",
       "SourceType": "Computed",
@@ -5411,25 +5411,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.X509Certificates.wasm"
-    },
-    {
-      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\e9fk0wvknf.gz",
-      "SourceId": "BlazorApp2",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\eax9nd0u91.gz",
@@ -5582,6 +5563,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Linq.Parallel.wasm"
+    },
+    {
+      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\f8igo2byvm.gz",
+      "SourceId": "BlazorApp2",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\fcn85pkz37.gz",
@@ -5850,6 +5850,25 @@
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.FileSystemGlobbing.wasm"
     },
     {
+      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\gr1wwx8vso.gz",
+      "SourceId": "BlazorApp2",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
+    },
+    {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\grhp3xjz3g.gz",
       "SourceId": "BlazorApp2",
       "SourceType": "Computed",
@@ -5886,25 +5905,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Drawing.Primitives.wasm"
-    },
-    {
-      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\gsqam1bzs6.gz",
-      "SourceId": "BlazorApp2",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\gvgn3zfvtg.gz",
@@ -6534,6 +6534,25 @@
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Compression.Brotli.wasm"
     },
     {
+      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\monh2aqisj.gz",
+      "SourceId": "BlazorApp2",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
+    },
+    {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\mt7axbftty.gz",
       "SourceId": "BlazorApp2",
       "SourceType": "Computed",
@@ -6895,44 +6914,6 @@
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Compression.ZipFile.wasm"
     },
     {
-      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\q4f82dkrg3.gz",
-      "SourceId": "BlazorApp2",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
-    },
-    {
-      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\qc5pkvggmj.gz",
-      "SourceId": "BlazorApp2",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
-    },
-    {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\qj34d6do2q.gz",
       "SourceId": "BlazorApp2",
       "SourceType": "Computed",
@@ -7064,6 +7045,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.TypeExtensions.wasm"
+    },
+    {
+      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\rdp6svyud8.gz",
+      "SourceId": "BlazorApp2",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.10.rdp6svyud8.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.rdp6svyud8.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.rdp6svyud8.js"
     },
     {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\rrseihztcy.gz",
@@ -7560,6 +7560,25 @@
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.DispatchProxy.wasm"
     },
     {
+      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\wv1btsww6u.gz",
+      "SourceId": "BlazorApp2",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\x1z2ejghs1.gz",
       "SourceId": "BlazorApp2",
       "SourceType": "Computed",
@@ -7653,25 +7672,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Data.wasm"
-    },
-    {
-      "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\yrpojpvlag.gz",
-      "SourceId": "BlazorApp2",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\StoreFlowers\\BlazorApp2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "C:\\StoreFlowers\\BlazorApp2\\obj\\Debug\\net8.0\\compressed\\yv1h48it5v.gz",

@@ -3,45 +3,191 @@
   "WorkspaceRootPath": "C:\\StoreFlowers\\webApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\validation\\discountvalid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0228E72A-5ABA-47E0-846A-660B22DDFCBC}|..\\DataAccess\\DataAccess.csproj|c:\\storeflowers\\dataaccess\\flowersstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9C96EA6-9A26-4E2C-A444-1538775D5647}|..\\BusinessLogic.Test\\BusinessLogic.Test.csproj|c:\\storeflowers\\businesslogic.test\\discservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\validation\\uservalid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|c:\\storeflowers\\webapi\\contracts\\creatediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|solutionrelative:contracts\\creatediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{624A02F2-9BC1-434C-B747-2D25197C075D}|..\\Domain\\Domain.csproj|c:\\storeflowers\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2009C5A-15FC-498B-9893-999B96088E2F}|..\\BlazorApp2\\BlazorApp2.csproj|c:\\storeflowers\\blazorapp2\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|c:\\storeflowers\\webapi\\authorization\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|solutionrelative:authorization\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2009C5A-15FC-498B-9893-999B96088E2F}|..\\BlazorApp2\\BlazorApp2.csproj|c:\\storeflowers\\blazorapp2\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\authorization\\ijwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2009C5A-15FC-498B-9893-999B96088E2F}|..\\BlazorApp2\\BlazorApp2.csproj|c:\\storeflowers\\blazorapp2\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{624A02F2-9BC1-434C-B747-2D25197C075D}|..\\Domain\\Domain.csproj|c:\\storeflowers\\domain\\interfaces\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2009C5A-15FC-498B-9893-999B96088E2F}|..\\BlazorApp2\\BlazorApp2.csproj|c:\\storeflowers\\blazorapp2\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{624A02F2-9BC1-434C-B747-2D25197C075D}|..\\Domain\\Domain.csproj|c:\\storeflowers\\domain\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2009C5A-15FC-498B-9893-999B96088E2F}|..\\BlazorApp2\\BlazorApp2.csproj|c:\\storeflowers\\blazorapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0228E72A-5ABA-47E0-846A-660B22DDFCBC}|..\\DataAccess\\DataAccess.csproj|c:\\storeflowers\\dataaccess\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2009C5A-15FC-498B-9893-999B96088E2F}|..\\BlazorApp2\\BlazorApp2.csproj|c:\\storeflowers\\blazorapp2\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\models\\accounts\\createrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2009C5A-15FC-498B-9893-999B96088E2F}|..\\BlazorApp2\\BlazorApp2.csproj|c:\\storeflowers\\blazorapp2\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\authorization\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2009C5A-15FC-498B-9893-999B96088E2F}|..\\BlazorApp2\\BlazorApp2.csproj|c:\\storeflowers\\blazorapp2\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|c:\\storeflowers\\webapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|c:\\storeflowers\\webapi\\authorization\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|solutionrelative:authorization\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|c:\\storeflowers\\webapi\\authorization\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|solutionrelative:authorization\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|c:\\storeflowers\\webapi\\authorization\\allowanonymousattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|solutionrelative:authorization\\allowanonymousattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\authorization\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\helpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\helpers\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\models\\accounts\\validateresettokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\models\\accounts\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\models\\accounts\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\models\\accounts\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\models\\accounts\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\models\\accounts\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\models\\accounts\\accountresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624A02F2-9BC1-434C-B747-2D25197C075D}|..\\Domain\\Domain.csproj|c:\\storeflowers\\domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624A02F2-9BC1-434C-B747-2D25197C075D}|..\\Domain\\Domain.csproj|c:\\storeflowers\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0228E72A-5ABA-47E0-846A-660B22DDFCBC}|..\\DataAccess\\DataAccess.csproj|c:\\storeflowers\\dataaccess\\migrations\\20241212111628_modifyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0228E72A-5ABA-47E0-846A-660B22DDFCBC}|..\\DataAccess\\DataAccess.csproj|c:\\storeflowers\\dataaccess\\migrations\\flowersstorecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|c:\\storeflowers\\webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\models\\accounts\\verifyemailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\models\\accounts\\updaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\models\\accounts\\revoketokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|c:\\storeflowers\\webapi\\controllers\\addrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|solutionrelative:controllers\\addrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0228E72A-5ABA-47E0-846A-660B22DDFCBC}|..\\DataAccess\\DataAccess.csproj|c:\\storeflowers\\dataaccess\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|c:\\storeflowers\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|c:\\storeflowers\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|solutionrelative:webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624A02F2-9BC1-434C-B747-2D25197C075D}|..\\Domain\\Domain.csproj|c:\\storeflowers\\domain\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|c:\\storeflowers\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|c:\\storeflowers\\webapi\\helpers\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|solutionrelative:helpers\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF41B6-13DD-4C18-B0F3-0809176AFE2A}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\storeflowers\\businesslogic\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624A02F2-9BC1-434C-B747-2D25197C075D}|..\\Domain\\Domain.csproj|c:\\storeflowers\\domain\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624A02F2-9BC1-434C-B747-2D25197C075D}|..\\Domain\\Domain.csproj|c:\\storeflowers\\domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624A02F2-9BC1-434C-B747-2D25197C075D}|..\\Domain\\Domain.csproj|c:\\storeflowers\\domain\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624A02F2-9BC1-434C-B747-2D25197C075D}|..\\Domain\\Domain.csproj|c:\\storeflowers\\domain\\models\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624A02F2-9BC1-434C-B747-2D25197C075D}|..\\Domain\\Domain.csproj|c:\\storeflowers\\domain\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{624A02F2-9BC1-434C-B747-2D25197C075D}|..\\Domain\\Domain.csproj|c:\\storeflowers\\domain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|c:\\storeflowers\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|c:\\storeflowers\\webapi\\contracts\\createaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|solutionrelative:contracts\\createaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2009C5A-15FC-498B-9893-999B96088E2F}|..\\BlazorApp2\\BlazorApp2.csproj|c:\\storeflowers\\blazorapp2\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2009C5A-15FC-498B-9893-999B96088E2F}|..\\BlazorApp2\\BlazorApp2.csproj|c:\\storeflowers\\blazorapp2\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624A02F2-9BC1-434C-B747-2D25197C075D}|..\\Domain\\Domain.csproj|c:\\storeflowers\\domain\\interfaces\\repository\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624A02F2-9BC1-434C-B747-2D25197C075D}|..\\Domain\\Domain.csproj|c:\\storeflowers\\domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|c:\\storeflowers\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{98DAE6E6-A3F8-4422-A5D9-72B3AC9BC4A4}|webApi.csproj|solutionrelative:webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0228E72A-5ABA-47E0-846A-660B22DDFCBC}|..\\DataAccess\\DataAccess.csproj|c:\\storeflowers\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0228E72A-5ABA-47E0-846A-660B22DDFCBC}|..\\DataAccess\\DataAccess.csproj|c:\\storeflowers\\dataaccess\\repository\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0228E72A-5ABA-47E0-846A-660B22DDFCBC}|..\\DataAccess\\DataAccess.csproj|c:\\storeflowers\\dataaccess\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0228E72A-5ABA-47E0-846A-660B22DDFCBC}|..\\DataAccess\\DataAccess.csproj|c:\\storeflowers\\dataaccess\\wrapper\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,7 +197,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 315,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,169 +205,708 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DiscountValid.cs",
-              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Validation\\DiscountValid.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLogic\\Validation\\DiscountValid.cs",
-              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Validation\\DiscountValid.cs",
-              "RelativeToolTip": "..\\BusinessLogic\\Validation\\DiscountValid.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "DocumentIndex": 31,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Services\\AccountService.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Services\\AccountService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T08:35:12.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T16:13:37.194Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DiscServiceTest.cs",
-              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic.Test\\DiscServiceTest.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLogic.Test\\DiscServiceTest.cs",
-              "ToolTip": "C:\\StoreFlowers\\BusinessLogic.Test\\DiscServiceTest.cs",
-              "RelativeToolTip": "..\\BusinessLogic.Test\\DiscServiceTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UserValid.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Validation\\UserValid.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Validation\\UserValid.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Validation\\UserValid.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Validation\\UserValid.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T08:35:02.816Z",
+              "WhenOpened": "2024-12-13T12:00:53.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateDiscount.cs",
-              "DocumentMoniker": "C:\\StoreFlowers\\webApi\\Contracts\\CreateDiscount.cs",
-              "RelativeDocumentMoniker": "Contracts\\CreateDiscount.cs",
-              "ToolTip": "C:\\StoreFlowers\\webApi\\Contracts\\CreateDiscount.cs",
-              "RelativeToolTip": "Contracts\\CreateDiscount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\User.cs",
+              "ToolTip": "C:\\StoreFlowers\\Domain\\Models\\User.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T08:34:52.838Z",
+              "WhenOpened": "2024-12-02T11:57:17.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "app.css",
-              "DocumentMoniker": "C:\\StoreFlowers\\BlazorApp2\\wwwroot\\css\\app.css",
-              "RelativeDocumentMoniker": "..\\BlazorApp2\\wwwroot\\css\\app.css",
-              "ToolTip": "C:\\StoreFlowers\\BlazorApp2\\wwwroot\\css\\app.css",
-              "RelativeToolTip": "..\\BlazorApp2\\wwwroot\\css\\app.css",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAYwIwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-24T15:15:48.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\StoreFlowers\\BlazorApp2\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "..\\BlazorApp2\\wwwroot\\index.html",
-              "ToolTip": "C:\\StoreFlowers\\BlazorApp2\\wwwroot\\index.html",
-              "RelativeToolTip": "..\\BlazorApp2\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-24T15:15:04.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\StoreFlowers\\BlazorApp2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\BlazorApp2\\Program.cs",
-              "ToolTip": "C:\\StoreFlowers\\BlazorApp2\\Program.cs",
-              "RelativeToolTip": "..\\BlazorApp2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IJwtUtils.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Authorization\\IJwtUtils.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Authorization\\IJwtUtils.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Authorization\\IJwtUtils.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Authorization\\IJwtUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:12:37.277Z",
+              "WhenOpened": "2024-12-05T15:45:14.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\StoreFlowers\\BlazorApp2\\App.razor",
-              "RelativeDocumentMoniker": "..\\BlazorApp2\\App.razor",
-              "ToolTip": "C:\\StoreFlowers\\BlazorApp2\\App.razor",
-              "RelativeToolTip": "..\\BlazorApp2\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T15:12:22.238Z",
+              "Title": "IRepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\Domain\\interfaces\\IRepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\interfaces\\IRepositoryWrapper.cs",
+              "ToolTip": "C:\\StoreFlowers\\Domain\\interfaces\\IRepositoryWrapper.cs",
+              "RelativeToolTip": "..\\Domain\\interfaces\\IRepositoryWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:02:56.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\StoreFlowers\\BlazorApp2\\_Imports.razor",
-              "RelativeDocumentMoniker": "..\\BlazorApp2\\_Imports.razor",
-              "ToolTip": "C:\\StoreFlowers\\BlazorApp2\\_Imports.razor",
-              "RelativeToolTip": "..\\BlazorApp2\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T15:12:20.807Z"
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\Domain\\interfaces\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\interfaces\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\StoreFlowers\\Domain\\interfaces\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "..\\Domain\\interfaces\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:48:47.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\StoreFlowers\\BlazorApp2\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "..\\BlazorApp2\\Pages\\Home.razor",
-              "ToolTip": "C:\\StoreFlowers\\BlazorApp2\\Pages\\Home.razor",
-              "RelativeToolTip": "..\\BlazorApp2\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T12:37:18.213Z",
+              "DocumentIndex": 0,
+              "Title": "FlowersStoreContext.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\DataAccess\\FlowersStoreContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\FlowersStoreContext.cs",
+              "ToolTip": "C:\\StoreFlowers\\DataAccess\\FlowersStoreContext.cs",
+              "RelativeToolTip": "..\\DataAccess\\FlowersStoreContext.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAWwBIBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:55:24.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Products.razor",
-              "DocumentMoniker": "C:\\StoreFlowers\\BlazorApp2\\Pages\\Products.razor",
-              "RelativeDocumentMoniker": "..\\BlazorApp2\\Pages\\Products.razor",
-              "ToolTip": "C:\\StoreFlowers\\BlazorApp2\\Pages\\Products.razor",
-              "RelativeToolTip": "..\\BlazorApp2\\Pages\\Products.razor",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T12:41:25.78Z",
+              "Title": "JwtUtils.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\webApi\\Authorization\\JwtUtils.cs",
+              "RelativeDocumentMoniker": "Authorization\\JwtUtils.cs",
+              "ToolTip": "C:\\StoreFlowers\\webApi\\Authorization\\JwtUtils.cs",
+              "RelativeToolTip": "Authorization\\JwtUtils.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwDQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:34:56.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\DataAccess\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\StoreFlowers\\DataAccess\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:50:18.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "AuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\webApi\\Authorization\\AuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Authorization\\AuthorizeAttribute.cs",
+              "ToolTip": "C:\\StoreFlowers\\webApi\\Authorization\\AuthorizeAttribute.cs",
+              "RelativeToolTip": "Authorization\\AuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:24:45.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\webApi\\Authorization\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "Authorization\\JwtMiddleware.cs",
+              "ToolTip": "C:\\StoreFlowers\\webApi\\Authorization\\JwtMiddleware.cs",
+              "RelativeToolTip": "Authorization\\JwtMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:26:26.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AllowAnonymousAttribute.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\webApi\\Authorization\\AllowAnonymousAttribute.cs",
+              "RelativeDocumentMoniker": "Authorization\\AllowAnonymousAttribute.cs",
+              "ToolTip": "C:\\StoreFlowers\\webApi\\Authorization\\AllowAnonymousAttribute.cs",
+              "RelativeToolTip": "Authorization\\AllowAnonymousAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:10:49.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthenticateResponse.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\AuthenticateResponse.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\Accounts\\AuthenticateResponse.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\AuthenticateResponse.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\Accounts\\AuthenticateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:02:06.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Authorization\\IEmailService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Authorization\\IEmailService.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Authorization\\IEmailService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Authorization\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:45:35.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateRequest.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\CreateRequest.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\Accounts\\CreateRequest.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\CreateRequest.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\Accounts\\CreateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:02:17.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Authorization\\IAccountService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Authorization\\IAccountService.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Authorization\\IAccountService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Authorization\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:43:26.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\webApi\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\StoreFlowers\\webApi\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAIwIcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:07:31.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Helpers\\AppSettings.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Helpers\\AppSettings.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Helpers\\AppSettings.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Helpers\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:15:19.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppException.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Helpers\\AppException.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Helpers\\AppException.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Helpers\\AppException.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Helpers\\AppException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:15:04.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ValidateResetTokenRequest.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\ValidateResetTokenRequest.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\Accounts\\ValidateResetTokenRequest.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\ValidateResetTokenRequest.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\Accounts\\ValidateResetTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:03:06.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\Accounts\\ResetPasswordRequest.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\Accounts\\ResetPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:02:44.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthenticateRequest.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\AuthenticateRequest.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\Accounts\\AuthenticateRequest.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\AuthenticateRequest.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\Accounts\\AuthenticateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:01:57.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\Accounts\\RegisterRequest.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\RegisterRequest.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\Accounts\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:02:36.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ForgotPasswordRequest.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\ForgotPasswordRequest.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\Accounts\\ForgotPasswordRequest.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\ForgotPasswordRequest.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\Accounts\\ForgotPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:02:25.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountResponse.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\AccountResponse.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\Accounts\\AccountResponse.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\AccountResponse.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\Accounts\\AccountResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:01:40.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Services\\UserService.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:48:01.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "C:\\StoreFlowers\\Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:44:52.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\StoreFlowers\\Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:04:08.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FlowersStoreContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\DataAccess\\Migrations\\FlowersStoreContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Migrations\\FlowersStoreContextModelSnapshot.cs",
+              "ToolTip": "C:\\StoreFlowers\\DataAccess\\Migrations\\FlowersStoreContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\DataAccess\\Migrations\\FlowersStoreContextModelSnapshot.cs",
+              "ViewState": "AgIAAEYDAAAAAAAAAAAQwDYDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:58:46.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\webApi\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "C:\\StoreFlowers\\webApi\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:07:54.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241212111628_ModifyUser.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\DataAccess\\Migrations\\20241212111628_ModifyUser.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Migrations\\20241212111628_ModifyUser.cs",
+              "ToolTip": "C:\\StoreFlowers\\DataAccess\\Migrations\\20241212111628_ModifyUser.cs",
+              "RelativeToolTip": "..\\DataAccess\\Migrations\\20241212111628_ModifyUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:16:50.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VerifyEmailRequest.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\VerifyEmailRequest.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\Accounts\\VerifyEmailRequest.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\VerifyEmailRequest.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\Accounts\\VerifyEmailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:03:13.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UpdateRequest.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\UpdateRequest.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\Accounts\\UpdateRequest.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\UpdateRequest.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\Accounts\\UpdateRequest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:02:59.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RevokeTokenRequest.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\RevokeTokenRequest.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\Accounts\\RevokeTokenRequest.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Models\\Accounts\\RevokeTokenRequest.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\Accounts\\RevokeTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:02:52.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddresController.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\webApi\\Controllers\\AddresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AddresController.cs",
+              "ToolTip": "C:\\StoreFlowers\\webApi\\Controllers\\AddresController.cs",
+              "RelativeToolTip": "Controllers\\AddresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:53:56.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\DataAccess\\Repository\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repository\\CategoriaRepository.cs",
+              "ToolTip": "C:\\StoreFlowers\\DataAccess\\Repository\\CategoriaRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repository\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:58:15.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\StoreFlowers\\webApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\StoreFlowers\\webApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwEwAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T14:59:46.309Z"
+              "WhenOpened": "2024-12-06T11:12:25.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\StoreFlowers\\BlazorApp2\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "..\\BlazorApp2\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\StoreFlowers\\BlazorApp2\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "..\\BlazorApp2\\Layout\\MainLayout.razor",
+              "DocumentIndex": 37,
+              "Title": "webApi.csproj",
+              "DocumentMoniker": "C:\\StoreFlowers\\webApi\\webApi.csproj",
+              "RelativeDocumentMoniker": "webApi.csproj",
+              "ToolTip": "C:\\StoreFlowers\\webApi\\webApi.csproj",
+              "RelativeToolTip": "webApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T09:57:07.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\StoreFlowers\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "..\\DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\StoreFlowers\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "..\\DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T09:54:32.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\Domain\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Address.cs",
+              "ToolTip": "C:\\StoreFlowers\\Domain\\Models\\Address.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:55:45.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\BusinessLogic\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Services\\EmailService.cs",
+              "ToolTip": "C:\\StoreFlowers\\BusinessLogic\\Services\\EmailService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:13:47.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\StoreFlowers\\webApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\StoreFlowers\\webApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T11:29:01.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\webApi\\Helpers\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "Helpers\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "C:\\StoreFlowers\\webApi\\Helpers\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "Helpers\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:57:07.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\Domain\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\StoreFlowers\\Domain\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\OrderDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T15:12:18.488Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:09:24.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 43,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\StoreFlowers\\Domain\\Models\\Order.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:09:23.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\Domain\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Notification.cs",
+              "ToolTip": "C:\\StoreFlowers\\Domain\\Models\\Notification.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:09:21.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "NotificationType.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\Domain\\Models\\NotificationType.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\NotificationType.cs",
+              "ToolTip": "C:\\StoreFlowers\\Domain\\Models\\NotificationType.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\NotificationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:09:20.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\Domain\\Models\\Discount.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Discount.cs",
+              "ToolTip": "C:\\StoreFlowers\\Domain\\Models\\Discount.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:09:19.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\StoreFlowers\\Domain\\Models\\Category.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Models\\Category.cs",
               "ToolTip": "C:\\StoreFlowers\\Domain\\Models\\Category.cs",
               "RelativeToolTip": "..\\Domain\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:09:17.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\StoreFlowers\\BlazorApp2\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\Pages\\Home.razor",
+              "ToolTip": "C:\\StoreFlowers\\BlazorApp2\\Pages\\Home.razor",
+              "RelativeToolTip": "..\\BlazorApp2\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T20:42:15.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateAddress.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\webApi\\Contracts\\CreateAddress.cs",
+              "RelativeDocumentMoniker": "Contracts\\CreateAddress.cs",
+              "ToolTip": "C:\\StoreFlowers\\webApi\\Contracts\\CreateAddress.cs",
+              "RelativeToolTip": "Contracts\\CreateAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:53:42.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Products.razor",
+              "DocumentMoniker": "C:\\StoreFlowers\\BlazorApp2\\Pages\\Products.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\Pages\\Products.razor",
+              "ToolTip": "C:\\StoreFlowers\\BlazorApp2\\Pages\\Products.razor",
+              "RelativeToolTip": "..\\BlazorApp2\\Pages\\Products.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T20:42:14.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AddressRepository.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\DataAccess\\Repository\\AddressRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repository\\AddressRepository.cs",
+              "ToolTip": "C:\\StoreFlowers\\DataAccess\\Repository\\AddressRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repository\\AddressRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:57:09.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\DataAccess\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repository\\RepositoryBase.cs",
+              "ToolTip": "C:\\StoreFlowers\\DataAccess\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repository\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:00:43.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
+              "ToolTip": "C:\\StoreFlowers\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
+              "RelativeToolTip": "..\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:02:13.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IAddressRepository.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\Domain\\interfaces\\Repository\\IAddressRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\interfaces\\Repository\\IAddressRepository.cs",
+              "ToolTip": "C:\\StoreFlowers\\Domain\\interfaces\\Repository\\IAddressRepository.cs",
+              "RelativeToolTip": "..\\Domain\\interfaces\\Repository\\IAddressRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:43:17.448Z"
+              "WhenOpened": "2024-12-09T14:11:09.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\StoreFlowers\\Domain\\interfaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\interfaces\\IRepositoryBase.cs",
+              "ToolTip": "C:\\StoreFlowers\\Domain\\interfaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "..\\Domain\\interfaces\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:09:38.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "webApi.http",
+              "DocumentMoniker": "C:\\StoreFlowers\\webApi\\webApi.http",
+              "RelativeDocumentMoniker": "webApi.http",
+              "ToolTip": "C:\\StoreFlowers\\webApi\\webApi.http",
+              "RelativeToolTip": "webApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-09T13:51:15.073Z"
             }
           ]
         }

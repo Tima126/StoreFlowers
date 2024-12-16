@@ -26,11 +26,7 @@ public class UserValidator : AbstractValidator<User>
             .EmailAddress()
             .WithMessage("Email is not valid.");
 
-        RuleFor(user => user.PhoneNumber)
-            .NotEmpty()
-            .WithMessage("Phone number is required.")
-            .MaximumLength(11)
-            .Matches(@"^[0-9]+$");
+        
 
         RuleFor(user => user.AddressId)
             .GreaterThan(0).WithMessage("Address ID must be greater than 0.");
